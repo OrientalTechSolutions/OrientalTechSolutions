@@ -26,7 +26,7 @@ For years we only built our own apps, with our own money and our own users. That
 |---|---|
 | **Sponky** | Multi-restaurant food delivery: customer, rider and restaurant apps, web panels, Laravel backend |
 | **Doctor Click** | Find doctors, book appointments and order medicines from nearby pharmacies |
-| **AIVIO** | Our own AI assistant combining ChatGPT, Gemini and Claude: chat, agents, voice, images, documents |
+| **Yaadi** | Our own AI app: an offline, encrypted Flutter app that turns household bills, notices and medicine times into reminders, in English and Urdu ([repo](https://github.com/OrientalTechSolutions/yaadi)) |
 | **Trucks Up** | Truck and load management with live GPS tracking and trip records |
 | **AgriFarm** | Marketplace where farmers sell crops to buyers, with live chat |
 | **Tailor Book** | Orders, measurements, delivery dates and invoices for tailoring shops |
@@ -51,8 +51,8 @@ For years we only built our own apps, with our own money and our own users. That
 1. Clear scope, timeline and milestones before we start
 2. A test build on your phone every week
 3. Published under your own App Store and Google Play accounts, and you own the code
-4. 30 days of free bug fixes after launch
+4. Support after launch, agreed for each project
 
 ---
 
-**Hire us on Upwork:** [Attaullah Hazarvi – Flutter Developer](https://www.upwork.com/freelancers/attaullahhazarvi)
+**Website:** [orientaltechsolutions.com](https://orientaltechsolutions.com) · **Hire us on Upwork:** [Attaullah Hazarvi – Flutter Developer](https://www.upwork.com/freelancers/attaullahhazarvi)
